@@ -20,4 +20,5 @@
     "editor.fontSize": 14.8,
     "python.REPL.enableREPLSmartSend": false,
     "workbench.iconTheme": "eq-material-theme-icons-light",
+    "workbench.activityBar.visible": false,
 }
