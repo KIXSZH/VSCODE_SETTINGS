@@ -8,7 +8,6 @@
     "editor.minimap.enabled": false,
     "workbench.statusBar.visible": false,
     "workbench.startupEditor": "none",
-    "Codegeex.Privacy": false,
     "workbench.layoutControl.enabled": false,
     "workbench.activityBar.location": "hidden",
     "files.autoSave": "afterDelay",
@@ -21,4 +20,5 @@
     "python.REPL.enableREPLSmartSend": false,
     "workbench.iconTheme": "eq-material-theme-icons-light",
     "workbench.activityBar.visible": false,
+    "editor.fontFamily": "Brass Mono Regular",
 }
